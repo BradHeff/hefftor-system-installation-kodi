@@ -1,7 +1,20 @@
 [Desktop Entry]
-Type=Application
-Name=Install HefftorLinux Basic
-Comment=Installer for HefftorLinux
 Categories=Utility;
-Exec=pkexec calamares
+Comment[en_AU]=Installer for HefftorLinux
+Comment=Installer for HefftorLinux
+Exec=pkexec /usr/bin/calamares
+GenericName[en_AU]=
+GenericName=
 Icon=hefftorlinux
+MimeType=
+Name[en_AU]=Install HefftorLinux Basic
+Name=Install HefftorLinux Basic
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

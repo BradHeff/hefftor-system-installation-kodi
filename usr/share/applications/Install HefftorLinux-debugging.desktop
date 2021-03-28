@@ -1,7 +1,20 @@
 [Desktop Entry]
-Type=Application
-Name=Install HefftorLinux with debugging mode on
-Comment=Installer for HefftorLinux to debug
 Categories=Utility;
-Exec=pkexec calamares
+Comment[en_AU]=Installer for HefftorLinux to debug
+Comment=Installer for HefftorLinux to debug
+Exec=pkexec /usr/bin/calamares
+GenericName[en_AU]=
+GenericName=
 Icon=hefftorlinux
+MimeType=
+Name[en_AU]=Install HefftorLinux with debugging mode on
+Name=Install HefftorLinux with debugging mode on
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
